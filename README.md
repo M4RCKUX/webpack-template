@@ -1,8 +1,6 @@
-# TODO-APP
+# WEBPACK TEMPLATE
 
-Este es un proyecto de desarrollo de una aplicación de seguimento de tareas.
-
-Se utiliza webpack y se desarrolla según el patrón MVC (Modelo, Vista, Controlador).
+Este es un proyecto de desarrollo de un template para proyectos webpack.
 
 Para reconstruir los módulos:
 ```
